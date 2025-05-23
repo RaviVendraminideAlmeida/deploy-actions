@@ -52,7 +52,7 @@
 
         <hr/>
 
-        <h1>Teste de Alteração e Envio</h1>
+        <h1 class="text-white">Teste de Alteração e Envio</h1>
 
         <hr/>
 
